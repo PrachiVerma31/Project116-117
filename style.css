@@ -1,0 +1,35 @@
+body{
+    font-family: cursive;
+    background-color: rgb(127, 206, 255);
+}
+
+.header_div{
+    background-color: aliceblue;
+    color:cornflowerblue;
+}
+
+.header_div p{
+    font-family: monospace;
+    color:rgb(80, 139, 193);
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.main_div button{
+    font-family: monospace;
+    width: 100px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    background-color: aliceblue;
+    color:rgb(68, 89, 128);
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    text-shadow: 5px 5px 5px lightslategray;
+}
